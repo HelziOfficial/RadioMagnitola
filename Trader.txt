@@ -1,0 +1,16 @@
+<Trader> Cassette Trader
+	<Category> Переносное радио
+		DayZRadio, *, 25500, 10500
+		DayZRadio_Panasonic, *, 38000, 16200
+        	DayZRadio_Walkman, *, 10000, 5200
+
+	<Category> Кассеты
+		DayZ_Cassette_AtomicHeart, *, 55000, 25000
+		DayZ_Cassette_Dora, *, 55000, 25000
+		DayZ_Cassette_GrazhdanskayaOborona, *, 55000, 25000
+		DayZ_Cassette_KINO, *, 55000, 25000
+		DayZ_Cassette_Kish, *, 55000, 25000
+		DayZ_Cassette_KnyaZz, *, 55000, 25000
+		DayZ_Cassette_Piknik, *, 55000, 25000
+		DayZ_Cassette_Pornofilmi, *, 55000, 25000
+		DayZ_Cassette_SectorGaza, *, 55000, 25000
